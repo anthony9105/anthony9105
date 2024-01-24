@@ -16,6 +16,7 @@ Aspiring software developer and 4th year Computer Science student.
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" width="40" height="40"/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
+    
 <p>
   <a><img src="https://github-profile-trophy.vercel.app/?username=anthony9105" alt="anthony9105" height="175", width="615"/></a> 
   <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony9105&show_icons=true&locale=en&layout=compact" alt="anthony9105"/></a>
