@@ -1,6 +1,8 @@
 ## Hi there 👋 I am Anthony.  
 Aspiring software developer and 4th year Computer Science student.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anthony9105" alt="anthony9105" /></a> </p>
+
 ### Main languages/tools:
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" height="80"/>
@@ -17,9 +19,18 @@ Aspiring software developer and 4th year Computer Science student.
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/>
 </p>
 
-
+<br></br>
 ### Click to connect:
 <a href="https://www.linkedin.com/in/anthony-liscio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-liscio" height="50" width="50" /></a>
 
+<br></br>
 ### Email:
 <img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="gmail" height="50" width="50"/> anthony.liscio@ontariotechu.net
+
+<br></br>
+### Other:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony9105&show_icons=true&locale=en&layout=compact" alt="anthony9105" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anthony9105&show_icons=true&locale=en" alt="anthony9105" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthony9105&" alt="anthony9105" /></p>
