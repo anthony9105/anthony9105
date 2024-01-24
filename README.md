@@ -19,5 +19,5 @@ Aspiring software developer and 4th year Computer Science student.
     
 <p>
   <a><img src="https://github-profile-trophy.vercel.app/?username=anthony9105" alt="anthony9105" height="175", width="600"/></a> 
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony9105&show_icons=true&locale=en&layout=compact" alt="anthony9105" height="250" width="270"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony9105&show_icons=true&locale=en&layout=compact" alt="anthony9105" height="250" width="250"/></a>
 </p>
