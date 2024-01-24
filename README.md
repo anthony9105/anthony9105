@@ -16,3 +16,10 @@ Aspiring software developer and 4th year Computer Science student.
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" width="80" height="80"/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="80" height="80"/>
 </p>
+
+
+### Click to connect:
+<a href="https://www.linkedin.com/in/anthony-liscio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anthony-liscio" height="50" width="50" /></a>
+
+### Email:
+<img align="center" src="https://github.com/gilbarbara/logos/blob/main/logos/google-gmail.svg" alt="gmail" height="50" width="50"/> anthony.liscio@ontariotechu.net
