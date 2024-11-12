@@ -15,6 +15,8 @@ Aspiring software developer and 4th year Computer Science student.
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/jupyter.svg" width="60" height="60"/>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60"/>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" alt="GitHub Actions" width="60" height="60"/>
 </p>
     
 <p>
