@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Anthony.  
-Aspiring software developer and 4th year Computer Science student.
+Aspiring software developer/engineer.  Bachelor of Science (Honours) at Ontario Tech University, January 2025.
 
 ### Main languages/tools:
 <p>
