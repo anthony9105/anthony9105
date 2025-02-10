@@ -20,5 +20,4 @@ Aspiring software developer/engineer.  Bachelor of Science (Honours) at Ontario 
     
 <p>
   <a><img src="https://github-profile-trophy.vercel.app/?username=anthony9105" alt="anthony9105" height="175", width="600"/></a> 
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anthony9105&show_icons=true&locale=en&layout=compact" alt="anthony9105" height="230" width="230"/></a>
 </p>
