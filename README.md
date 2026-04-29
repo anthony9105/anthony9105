@@ -5,7 +5,7 @@ Software Developer/Engineer.  Bachelor of Science (Honours) at Ontario Tech Univ
 ---
 ### Production experience with
 
-- **Backend & Data:** Python, Flask, SQLAlchemy, PostgreSQL, Redis  
+- **Backend & Data:** Python, Flask, SQLAlchemy, PostgreSQL, Redis (rate-limiting)
 - **Authentication & Security:** JWT, Google reCAPTCHA  
 - **Frontend:** Dart, Flutter  
 - **Cloud & Deployment:** AWS, Cloudflare, Railway  
